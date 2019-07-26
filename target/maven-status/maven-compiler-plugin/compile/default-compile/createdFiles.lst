@@ -1,0 +1,6 @@
+moneytransfer\constants\Constants.class
+moneytransfer\model\Account.class
+moneytransfer\rest\Routes.class
+moneytransfer\AppServer.class
+moneytransfer\constants\Constants$Routes.class
+moneytransfer\model\Customer.class
